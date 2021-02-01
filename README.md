@@ -6,7 +6,7 @@
     ```
     Content-Type: multipart/form-data; boundary=123456789012345678901234567890
     ```
-  +HTTP BODY
+  + HTTP BODY
     ```
     -----------------------------123456789012345678901234567890
     Content-Disposition: form-data; name="file"; filename="C:\Users\soumunote\Desktop\readme.pdf"
